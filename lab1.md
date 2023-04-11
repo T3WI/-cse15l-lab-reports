@@ -6,6 +6,11 @@ To log into your account, you first need to find you account details. You can fi
 Note: You may need to reset your account password to get access.
 
 Next you'll want to download Visual Studio Code. Once you have it downloaded it should look like this:
+
 ![Image](vsc.png)
+
+Once you have Visual Studio Code, you'll want to download a Git Bash extension from the extensions store. After it is downloaded, you can log in by first starting a new Git Bash shell and typing in: "cs15lsp23xx@ieng6.ucsd.edu" and hitting "enter". Afterwards, it'll prompt you for a password. Type in your password. It's fine if no letters show up. That's normal. After logging in, it'll prompt you with a question confirming your access to the account. Hit "Y". Then you'll be greeted with this screen:
+
 ![Image](login.png)
+
 ![Image](lsla.png)
