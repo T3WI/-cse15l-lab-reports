@@ -13,6 +13,7 @@ Once you have Visual Studio Code, you'll want to download a Git Bash extension f
 
 ![Image](login.png)
 
+## Try out some commands!
 Now we can try some commands to navigate through this shell. Here is a demonstration of the command -ls la which shows all the directories present in your current directory, as well as the various access levels of each one.
 ![Image](lsla.png)
 
