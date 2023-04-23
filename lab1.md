@@ -21,7 +21,7 @@ Now we can try some commands to navigate through this shell. Here is a demonstra
 Here is a demonstration of the command `cd`. It allows us to change directories.
 ![Image](cd.png)
 
-Here is a demonstration of the commands `mkdir` and `rmdir`, where the former creates a directory in the current directory, and the latter removes a directory given the directory's name in the current directory.
+Here is a demonstration of the commands `mkdir` and `rmdir`, where the former creates a directory with a given name in the current directory, and the latter removes a directory with a given name from the current directory.
 ![Image](mkdir.png)
 
 Thank you for coming to my TED talk.
