@@ -22,6 +22,6 @@ Here is a demonstration of the command `cd`. It allows us to change directories.
 ![Image](cd.png)
 
 Here is a demonstration of the commands `mkdir` and `rmdir`, where the former creates a directory in the current directory, and the latter removes a directory given the directory's name in the current directory.
-![Image](rmdir.png)
+![Image](mkdir.png)
 
 Thank you for coming to my TED talk.
