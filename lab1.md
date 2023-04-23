@@ -18,4 +18,7 @@ Once you have Visual Studio Code, you'll want to download a Git Bash extension f
 Now we can try some commands to navigate through this shell. Here is a demonstration of the command `-ls la` which shows all the directories present in your current directory, as well as the various access levels of each one.
 ![Image](lsla.png)
 
+Here is a demonstration of the command `cd`. It allows us to change directories.
+![Image](cd.png)
+
 Thank you for coming to my TED talk.
