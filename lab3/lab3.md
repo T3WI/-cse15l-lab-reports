@@ -1,7 +1,9 @@
 Lab 3
 =====
 ## GREP
-`grep` is a command used to retrieve files that contain a specific property that we want. We can often combine it with ls to see which files meet our specific parameters. For example, if we want to find all the files that are of the extention `.txt` or `.png`, then we can use the command `ls | grep '.*\(txt\|jpg\)'` to find all of them.
+`grep` is a command used to retrieve files that contain a specific property that we want. We can often combine it with ls to see which files meet our specific parameters. 
+
+One thing we can do is find all files of a specific extension. For example, if we want to find all the files that are of the extention `.txt` or `.png`, then we can use the command `ls | grep '.*\(txt\|jpg\)'` to find all of them.
 ```
 $ ls | grep '.*\(txt\|jpg\)'
 1468-6708-3-1.txt
