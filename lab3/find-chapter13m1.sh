@@ -1,0 +1,2 @@
+find technical/911report/chapter-13* > results13.txt     # Finds all of the paths and files that have chapter 13, and stores them into a txt file
+xargs wc < results13.txt                                # Takes in the txt file as input and outputs it to the terminal
