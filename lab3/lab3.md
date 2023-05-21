@@ -2,7 +2,7 @@ Lab 3
 =====
 ## GREP
 `grep` is a command used to retrieve files that contain a specific property that we want. We can often combine it with ls to see which files meet our specific parameters. 
-All commands, flags and options were found from [Wikibooks](https://en.wikibooks.org/wiki/Grep)
+All commands, flags and options were found from [this Wikibooks page](https://en.wikibooks.org/wiki/Grep)
 One interesting command-line option is `-v`, which filters out files when given a specific string. For example:
 ```
 $ ls | grep -v chapter-1
