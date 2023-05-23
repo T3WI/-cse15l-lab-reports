@@ -39,7 +39,7 @@ Opens the java file in vim.
 
 Keys Pressed:
 ```<Shift>g6kexi2<Esc>```
-![Image](7.png)
+![Image](8.png)
 ```Shift + G``` brings the cursor to the bottom of the document. ```6k``` moves the cursor up 6 lines. ```e``` moves the cursor to the next word, which is index1 inthis case. ```x``` deletes the character it is over, which is the number 1 in this case. ```i``` puts vim in insertion mode. ```2``` add the number 2 where the cursor is. ```<Esc>``` Brings vim back into command mode.
 
 Keys Pressed:
