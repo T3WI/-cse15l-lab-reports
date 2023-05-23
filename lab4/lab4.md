@@ -1,7 +1,6 @@
 Lab 4
 =====
 
-## 
 Keys Pressed:
 ```ssh cs15lsp23nm@ieng6.ucsd.edu<enter>``` 
 ![Image](1.png)
